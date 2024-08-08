@@ -1,0 +1,75 @@
+[
+    {
+        "popularItems": [
+            {
+                "id": 1,
+                "name": "Thermo Ball Etip Gloves",
+                "image": "https://preview.colorlib.com/theme/estore/assets/img/categori/product1.png.webp",
+                "price": 45743
+            },
+            {
+                "id": 2,
+                "name": "Thermo Ball Etip Gloves",
+                "image": "https://preview.colorlib.com/theme/estore/assets/img/categori/product2.png.webp",
+                "price": 45743
+            },
+            {
+                "id": 3,
+                "name": "Thermo Ball Etip Gloves",
+                "image": "https://preview.colorlib.com/theme/estore/assets/img/categori/product3.png.webp",
+                "price": 45743
+            },
+            {
+                "id": 4,
+                "name": "Thermo Ball Etip Gloves",
+                "image": "https://preview.colorlib.com/theme/estore/assets/img/categori/product4.png.webp",
+                "price": 45743
+            },
+            {
+                "id": 5,
+                "name": "Thermo Ball Etip Gloves",
+                "image": "https://preview.colorlib.com/theme/estore/assets/img/categori/product5.png.webp",
+                "price": 45743
+            },
+            {
+                "id": 6,
+                "name": "Thermo Ball Etip Gloves",
+                "image": "https://preview.colorlib.com/theme/estore/assets/img/categori/product6.png.webp",
+                "price": 45743
+            }
+        ],
+        "choices": [
+            {
+                "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/choce_watch1.png.webp",
+                "title": "Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse."
+            },
+            {
+                "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/choce_watch2.png.webp",
+                "title": "Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse."
+            }
+        ],
+        "photos": [
+            "https://preview.colorlib.com/theme/timezone/assets/img/gallery/gallery1.png.webp",
+            "https://preview.colorlib.com/theme/timezone/assets/img/gallery/gallery2.png.webp",
+            "https://preview.colorlib.com/theme/timezone/assets/img/gallery/gallery3.png.webp",
+            "https://preview.colorlib.com/theme/timezone/assets/img/gallery/gallery4.png.webp"
+        ],
+        "newArrivals": [
+            {
+                "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product1.png.webp",
+                "name": "Thermo Ball Etip Gloves",
+                "price": 45743
+            },
+            {
+                "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product2.png.webp",
+                "name": "Thermo Ball Etip Gloves",
+                "price": 45743
+            },
+            {
+                "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product3.png.webp",
+                "name": "Thermo Ball Etip Gloves",
+                "price": 45743
+            }
+        ]
+    }
+]
